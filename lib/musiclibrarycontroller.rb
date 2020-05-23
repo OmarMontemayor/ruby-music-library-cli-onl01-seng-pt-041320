@@ -37,6 +37,7 @@ class MusicLibraryController
       else
         "Type in a valid request please"
       end
+    end
   end
   
   def list_songs
